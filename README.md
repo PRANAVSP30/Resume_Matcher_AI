@@ -1,5 +1,7 @@
 # 🚀 ResumeMatch AI – Intelligent Resume Ranking System
 
+## By Pranav SP
+
 ResumeMatch AI is a smart NLP-powered system that automatically ranks resumes based on their relevance to a given job description. It helps recruiters quickly identify the best candidates using data-driven insights.
 
 ---
@@ -115,12 +117,6 @@ The application is deployed using Streamlit Cloud and is accessible via the live
 - Handled deployment challenges and dependency management
 
 ---
-
-## 👨‍💻 Author
-
-**Vishnu Shettihalli**  
-AI/ML Enthusiast | Building Real-World ML Systems
-
 ---
 
 ## ⭐ If you found this useful, consider giving it a star!
